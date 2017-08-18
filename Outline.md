@@ -136,7 +136,7 @@
 
 ## オチ
 
-* そういえばAlloy Analyzer更新されてなくないか?
+* そういえばAlloy Analyzer更新されてなくない
   => [hola](http://alloy.mit.edu/alloy/hola/)
 
   Alloy*: A Higher-Order Relational Constraint Solver
@@ -144,3 +144,6 @@
   permits higher-order quantification:
   changes the **semantics** of Alloy only by expanding the set of specifications
   that can be analyzed
+
+  => 新章突入ってこと?!
+
